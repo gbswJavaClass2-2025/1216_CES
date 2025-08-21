@@ -7,7 +7,6 @@ public class RunStatementExample {
         int y = 2;
         int result = x + y;
         System.out.println(result);
-
     }
 
 }
