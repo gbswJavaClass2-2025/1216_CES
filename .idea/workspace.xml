@@ -4,43 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f9f9c41-17f5-4f27-ab8d-783181a04d12" name="변경" comment="0821 README.md">
-      <change afterPath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec01/exam01/VariableInitializationExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec01/exam02/VariableUseExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec01/exam03/VariableExchangeExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec03/exam01/Hello.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec03/exam02/RunStatementExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap01/src/sec02/exam01/IntegerLiteralExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap01/src/sec02/exam02/ByteExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap01/src/sec02/exam03/LongExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap01/src/sec02/exam04/CharExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap01/src/sec02/exam05/StringExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap01/src/sec02/exam06/EscapeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap01/src/sec02/exam07/FloatDubleExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap01/src/sec02/exam08/BooleanExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap01/src/sec03/exam01/PromotionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap01/src/sec03/exam02/CastingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap01/src/sec03/exam03/ByteOperationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap01/src/sec03/exam04/LongOperationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap01/src/sec03/exam05/OperationPromotionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap01/src/sec03/exam6/StringConcatExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap01/src/sec04/exam01/PrintfExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap01/src/sec04/exam02/KeyCodeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap01/src/sec04/exam03/ContinueKeyCodeReadExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap01/src/sec04/exam04/QStopExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap01/src/sec04/exam05/ScannerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/chap01/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/1216_CES.iml" beforeDir="false" afterPath="$PROJECT_DIR$/chap01/.idea/1216_CES.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chap01/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chap01/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chap01/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sec01/exam01/VariableInitializationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap01/src/sec01/exam01/VariableInitializationExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sec01/exam02/VariableUseExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap01/src/sec01/exam02/VariableUseExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sec01/exam03/VariableExchangeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap01/src/sec01/exam03/VariableExchangeExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sec01/exam04/VariableScopeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap01/src/sec01/exam04/VariableScopeExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sec01/exam05/ValueScopeExample01.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap01/src/sec01/exam05/ValueScopeExample01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sec03/exam01/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap01/src/sec03/exam01/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sec03/exam02/RunStatementExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap01/src/sec03/exam02/RunStatementExample.java" afterDir="false" />
+    <list default="true" id="9f9f9c41-17f5-4f27-ab8d-783181a04d12" name="변경" comment="0826 실습">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01/.idea/1216_CES.iml" beforeDir="false" afterPath="$PROJECT_DIR$/chap01/.idea/1216_CES.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec01/exam01/VariableInitializationExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec01/exam01/VariableInitializationExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec01/exam02/VariableUseExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec01/exam02/VariableUseExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec01/exam03/VariableExchangeExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec01/exam03/VariableExchangeExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec01/exam04/VariableScopeExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec01/exam04/VariableScopeExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec01/exam05/ValueScopeExample01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec01/exam05/ValueScopeExample01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec02/exam01/IntegerLiteralExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec02/exam01/IntegerLiteralExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec02/exam02/ByteExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec02/exam02/ByteExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec02/exam03/LongExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec02/exam03/LongExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec02/exam04/CharExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec02/exam04/CharExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec02/exam05/StringExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec02/exam05/StringExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec02/exam06/EscapeExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec02/exam06/EscapeExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec02/exam07/FloatDubleExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec02/exam07/FloatDubleExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec02/exam08/BooleanExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec02/exam08/BooleanExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec03/exam01/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec03/exam01/Hello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec03/exam01/PromotionExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec03/exam01/PromotionExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec03/exam02/CastingExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec03/exam02/CastingExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec03/exam02/RunStatementExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec03/exam02/RunStatementExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec03/exam03/ByteOperationExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec03/exam03/ByteOperationExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec03/exam04/LongOperationExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec03/exam04/LongOperationExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec03/exam05/OperationPromotionExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec03/exam05/OperationPromotionExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec03/exam6/StringConcatExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec03/exam6/StringConcatExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec04/exam01/PrintfExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec04/exam01/PrintfExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec04/exam02/KeyCodeExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec04/exam02/KeyCodeExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec04/exam03/ContinueKeyCodeReadExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec04/exam03/ContinueKeyCodeReadExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec04/exam04/QStopExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec04/exam04/QStopExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec04/exam05/ScannerExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec04/exam05/ScannerExample.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +97,7 @@
     "Application.VariableInitializationExample.executor": "Run",
     "Application.VariableScopeExample.executor": "Run",
     "Application.VariableUseExample.executor": "Run",
+    "Application.ddd.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -114,6 +109,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/chap01" />
     </key>
   </component>
@@ -169,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755753740679</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="0826 실습">
+      <option name="closed" value="true" />
+      <created>1756173713070</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1756173713070</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,7 +191,8 @@
     <MESSAGE value="변경" />
     <MESSAGE value="0821 실습" />
     <MESSAGE value="0821 README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="0821 README.md" />
+    <MESSAGE value="0826 실습" />
+    <option name="LAST_COMMIT_MESSAGE" value="0826 실습" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
