@@ -11,7 +11,7 @@ public class ValueScopeExample01 {
                 v2 = 1;
                 v3 = 1;
             }
-            v1 = v2 + v3;
+            v1 = v2 + v2;
         }
         System.out.println(v1);
     }
