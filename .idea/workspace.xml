@@ -5,36 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f9f9c41-17f5-4f27-ab8d-783181a04d12" name="변경" comment="0826 실습">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap01/.idea/1216_CES.iml" beforeDir="false" afterPath="$PROJECT_DIR$/chap01/.idea/1216_CES.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec01/exam01/VariableInitializationExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec01/exam01/VariableInitializationExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec01/exam02/VariableUseExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec01/exam02/VariableUseExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec01/exam03/VariableExchangeExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec01/exam03/VariableExchangeExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec01/exam04/VariableScopeExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec01/exam04/VariableScopeExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec01/exam05/ValueScopeExample01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec01/exam05/ValueScopeExample01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec02/exam01/IntegerLiteralExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec02/exam01/IntegerLiteralExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec02/exam02/ByteExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec02/exam02/ByteExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec02/exam03/LongExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec02/exam03/LongExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec02/exam04/CharExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec02/exam04/CharExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec02/exam05/StringExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec02/exam05/StringExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec02/exam06/EscapeExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec02/exam06/EscapeExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec02/exam07/FloatDubleExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec02/exam07/FloatDubleExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec02/exam08/BooleanExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec02/exam08/BooleanExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec03/exam01/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec03/exam01/Hello.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec03/exam01/PromotionExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec03/exam01/PromotionExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec03/exam02/CastingExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec03/exam02/CastingExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec03/exam02/RunStatementExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec03/exam02/RunStatementExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec03/exam03/ByteOperationExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec03/exam03/ByteOperationExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec03/exam04/LongOperationExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec03/exam04/LongOperationExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec03/exam05/OperationPromotionExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec03/exam05/OperationPromotionExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec03/exam6/StringConcatExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec03/exam6/StringConcatExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec04/exam01/PrintfExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec04/exam01/PrintfExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec04/exam02/KeyCodeExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec04/exam02/KeyCodeExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec04/exam03/ContinueKeyCodeReadExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec04/exam03/ContinueKeyCodeReadExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec04/exam04/QStopExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec04/exam04/QStopExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap01/out/production/1216_CES/sec04/exam05/ScannerExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1216_CES/sec04/exam05/ScannerExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap03/src/test/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
