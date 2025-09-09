@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f9f9c41-17f5-4f27-ab8d-783181a04d12" name="변경" comment="0826 실습">
-      <change afterPath="$PROJECT_DIR$/chap03/src/test/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap03/src/sec02/exam01/SignOperatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap03/src/sec02/exam02/IncreaseDecreaseOperatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap03/src/sec02/exam03/DenyLogicOperatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap03/src/sec02/exam04/ArithmeticOperatorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap03/src/test/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1216_CES/test/test.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,13 +75,22 @@
     "Application.VariableScopeExample.executor": "Run",
     "Application.VariableUseExample.executor": "Run",
     "Application.ddd.executor": "Run",
+    "Application.test.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/choies/Desktop/JavaLearn/1216_CES/chap01/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "애플리케이션.ArithmeticOperatorExample.executor": "Run",
+    "애플리케이션.DenyLogicOperatorExample.executor": "Run",
+    "애플리케이션.IncreaseDecreaseOperatorExample.executor": "Run",
+    "애플리케이션.IntegerLiteralExample.executor": "Run",
+    "애플리케이션.ScannerExample.executor": "Run",
+    "애플리케이션.SignOperatorExample.executor": "Run",
+    "애플리케이션.test.executor": "Run"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -84,7 +99,46 @@
       <recent name="$PROJECT_DIR$/chap01" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="애플리케이션.ArithmeticOperatorExample">
+    <configuration name="ArithmeticOperatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec02.exam04.ArithmeticOperatorExample" />
+      <module name="1216_CES" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sec02.exam04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DenyLogicOperatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec02.exam03.DenyLogicOperatorExample" />
+      <module name="1216_CES" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sec02.exam03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IncreaseDecreaseOperatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec02.exam02.IncreaseDecreaseOperatorExample" />
+      <module name="1216_CES" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sec02.exam02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IntegerLiteralExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sec02.exam01.IntegerLiteralExample" />
       <module name="1216_CES" />
@@ -98,9 +152,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SignOperatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec02.exam01.SignOperatorExample" />
+      <module name="1216_CES" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sec02.exam01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IntegerLiteralExample" />
+        <item itemvalue="애플리케이션.ArithmeticOperatorExample" />
+        <item itemvalue="애플리케이션.DenyLogicOperatorExample" />
+        <item itemvalue="애플리케이션.IncreaseDecreaseOperatorExample" />
+        <item itemvalue="애플리케이션.SignOperatorExample" />
+        <item itemvalue="애플리케이션.IntegerLiteralExample" />
       </list>
     </recent_temporary>
   </component>
