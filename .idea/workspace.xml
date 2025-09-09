@@ -5,10 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f9f9c41-17f5-4f27-ab8d-783181a04d12" name="변경" comment="0826 실습">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/chap03/src/sec02/exam01/SignOperatorExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/chap03/src/sec02/exam02/IncreaseDecreaseOperatorExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/chap03/src/sec02/exam03/DenyLogicOperatorExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/chap03/src/sec02/exam04/ArithmeticOperatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap03/src/sec02/exam05/CharOperationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap03/src/sec02/exam06/StringConcatExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1216_CES/sec02/exam01/SignOperatorExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1216_CES/sec02/exam02/IncreaseDecreaseOperatorExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1216_CES/sec02/exam03/DenyLogicOperatorExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1216_CES/sec02/exam04/ArithmeticOperatorExample.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chap03/src/test/test.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/1216_CES/test/test.class" beforeDir="false" />
@@ -99,7 +106,7 @@
       <recent name="$PROJECT_DIR$/chap01" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.ArithmeticOperatorExample">
+  <component name="RunManager">
     <configuration name="ArithmeticOperatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sec02.exam04.ArithmeticOperatorExample" />
       <module name="1216_CES" />
