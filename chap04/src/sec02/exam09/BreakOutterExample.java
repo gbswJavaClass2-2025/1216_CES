@@ -1,4 +1,4 @@
-package sec01.exam09;
+package sec02.exam09;
 
 public class BreakOutterExample {
     public static void main(String[] args) {
