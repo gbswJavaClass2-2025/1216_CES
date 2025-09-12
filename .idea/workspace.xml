@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f9f9c41-17f5-4f27-ab8d-783181a04d12" name="변경" comment="0826 실습">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05/src/sec01/exam01/StringEqualsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05/src/sec02/exam01/ArrayCreateByValueListExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05/src/sec02/exam02/ArrayCreateByValueListExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05/src/sec02/exam03/ArrayCreateByNewExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05/src/sec02/exam04/ArrayLengthExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05/src/sec02/exam05/MainStringArrayArgument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05/src/sec02/exam06/ArrayInArrayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05/src/sec02/exam07/ArrayReferenceObjectExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05/src/sec02/exam08/ArrayCopyByForExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05/src/sec02/exam09/ArrayCopyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05/src/sec02/exam10/AdvancedForExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05/src/sec03/Week.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap05/src/sec03/exam02/EnumWeekExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01/.idea/1216_CES.iml" beforeDir="false" afterPath="$PROJECT_DIR$/chap01/.idea/1216_CES.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +29,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -78,7 +93,15 @@
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/choies/Desktop/JavaLearn/1216_CES/chap01/src/Main.java",
     "settings.editor.selected.configurable": "preferences.keymap",
+    "애플리케이션.AdvancedForExample.executor": "Debug",
     "애플리케이션.ArithmeticOperatorExample.executor": "Run",
+    "애플리케이션.ArrayCopyByForExample.executor": "Run",
+    "애플리케이션.ArrayCopyExample.executor": "Run",
+    "애플리케이션.ArrayCreateByNewExample.executor": "Run",
+    "애플리케이션.ArrayCreateByValueListExample1.executor": "Run",
+    "애플리케이션.ArrayInArrayExample.executor": "Run",
+    "애플리케이션.ArrayLengthExample.executor": "Run",
+    "애플리케이션.ArrayReferenceObjectExample.executor": "Run",
     "애플리케이션.AssignmentOperatorExample.executor": "Run",
     "애플리케이션.BreakExample.executor": "Run",
     "애플리케이션.BreakOutterExample.executor": "Run",
@@ -87,6 +110,7 @@
     "애플리케이션.ConditionalOperationExample.executor": "Run",
     "애플리케이션.ContinueExample.executor": "Run",
     "애플리케이션.DenyLogicOperatorExample.executor": "Run",
+    "애플리케이션.EnumWeekExample.executor": "Run",
     "애플리케이션.ForMultiplicationTableExample.executor": "Run",
     "애플리케이션.ForPrintFrom1To10Example.executor": "Run",
     "애플리케이션.ForSumFrom1To100Example.executor": "Run",
@@ -98,9 +122,11 @@
     "애플리케이션.IncreaseDecreaseOperatorExample.executor": "Run",
     "애플리케이션.IntegerLiteralExample.executor": "Run",
     "애플리케이션.LogicalOperatorExample.executor": "Run",
+    "애플리케이션.MainStringArrayArgument.executor": "Run",
     "애플리케이션.ScannerExample.executor": "Run",
     "애플리케이션.SignOperatorExample.executor": "Run",
     "애플리케이션.StringConcatExample.executor": "Run",
+    "애플리케이션.StringEqualsExample.executor": "Run",
     "애플리케이션.SwitchCharExample.executor": "Run",
     "애플리케이션.SwitchExample.executor": "Run",
     "애플리케이션.SwitchNoBreakCaseExample.executor": "Run",
@@ -116,35 +142,9 @@
       <recent name="$PROJECT_DIR$/chap01" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.ContinueExample">
-    <configuration name="BreakExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec02.exam08.BreakExample" />
-      <module name="1216_CES" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sec02.exam08.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BreakOutterExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec02.exam09.BreakOutterExample" />
-      <module name="1216_CES" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sec02.exam09.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ContinueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec02.exam10.ContinueExample" />
+  <component name="RunManager" selected="애플리케이션.AdvancedForExample">
+    <configuration name="AdvancedForExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec02.exam10.AdvancedForExample" />
       <module name="1216_CES" />
       <extension name="coverage">
         <pattern>
@@ -156,8 +156,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhilePrintFrom1To10Exmaple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec02.exam06.WhilePrintFrom1To10Exmaple" />
+    <configuration name="ArrayCopyByForExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec02.exam08.ArrayCopyByForExample" />
+      <module name="1216_CES" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sec02.exam08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayCopyExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec02.exam09.ArrayCopyExample" />
+      <module name="1216_CES" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sec02.exam09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayInArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec02.exam06.ArrayInArrayExample" />
       <module name="1216_CES" />
       <extension name="coverage">
         <pattern>
@@ -169,8 +195,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileSumFrom1To100Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec02.exam07.WhileSumFrom1To100Example" />
+    <configuration name="ArrayReferenceObjectExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec02.exam07.ArrayReferenceObjectExample" />
       <module name="1216_CES" />
       <extension name="coverage">
         <pattern>
@@ -182,13 +208,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="애플리케이션.AdvancedForExample" />
+      <item itemvalue="애플리케이션.ArrayCopyByForExample" />
+      <item itemvalue="애플리케이션.ArrayCopyExample" />
+      <item itemvalue="애플리케이션.ArrayInArrayExample" />
+      <item itemvalue="애플리케이션.ArrayReferenceObjectExample" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.ContinueExample" />
-        <item itemvalue="애플리케이션.BreakOutterExample" />
-        <item itemvalue="애플리케이션.BreakExample" />
-        <item itemvalue="애플리케이션.WhileSumFrom1To100Example" />
-        <item itemvalue="애플리케이션.WhilePrintFrom1To10Exmaple" />
+        <item itemvalue="애플리케이션.AdvancedForExample" />
+        <item itemvalue="애플리케이션.ArrayCopyExample" />
+        <item itemvalue="애플리케이션.ArrayCopyByForExample" />
+        <item itemvalue="애플리케이션.ArrayReferenceObjectExample" />
+        <item itemvalue="애플리케이션.ArrayInArrayExample" />
       </list>
     </recent_temporary>
   </component>
@@ -261,6 +294,10 @@
           <line>11</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
