@@ -5,21 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f9f9c41-17f5-4f27-ab8d-783181a04d12" name="변경" comment="0826 실습">
-      <change afterPath="$PROJECT_DIR$/chap05/src/sec01/exam01/StringEqualsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap05/src/sec02/exam01/ArrayCreateByValueListExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap05/src/sec02/exam02/ArrayCreateByValueListExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap05/src/sec02/exam03/ArrayCreateByNewExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap05/src/sec02/exam04/ArrayLengthExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap05/src/sec02/exam05/MainStringArrayArgument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap05/src/sec02/exam06/ArrayInArrayExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap05/src/sec02/exam07/ArrayReferenceObjectExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap05/src/sec02/exam08/ArrayCopyByForExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap05/src/sec02/exam09/ArrayCopyExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap05/src/sec02/exam10/AdvancedForExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap05/src/sec03/Week.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap05/src/sec03/exam02/EnumWeekExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap06/src/sec01/exam01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap06/src/sec01/exam01/StudentExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap06/src/sec02/exam01/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap06/src/sec02/exam01/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap06/src/sec02/exam02/FieldInitValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap06/src/sec02/exam02/FieldInitValueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap06/src/sec03/exam01/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap06/src/sec03/exam01/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap06/src/sec03/exam02/Korean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap06/src/sec03/exam02/KoreanExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap06/src/sec03/exam03/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap06/src/sec03/exam03/CarExmaple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap06/src/sec03/exam04/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap06/src/sec03/exam04/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap06/src/sec04/exam01/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap06/src/sec04/exam01/CalculatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap06/src/sec04/exam02/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap06/src/sec04/exam02/ComputerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap06/src/sec04/exam03/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap06/src/sec04/exam03/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap06/src/sec04/exam04/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap06/src/sec04/exam04/CalculatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap06/src/sec04/exam05/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap06/src/sec04/exam05/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap06/src/sec04/exam06/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap06/src/sec04/exam06/CalculatorExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chap01/.idea/1216_CES.iml" beforeDir="false" afterPath="$PROJECT_DIR$/chap01/.idea/1216_CES.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap05/src/sec03/exam01/Week.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap05/src/sec03/Week.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap05/src/sec03/exam02/EnumWeekExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap05/src/sec03/exam02/EnumWeekExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,8 +107,8 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/choies/Desktop/JavaLearn/1216_CES/chap01/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "애플리케이션.AdvancedForExample.executor": "Debug",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "애플리케이션.AdvancedForExample.executor": "Run",
     "애플리케이션.ArithmeticOperatorExample.executor": "Run",
     "애플리케이션.ArrayCopyByForExample.executor": "Run",
     "애플리케이션.ArrayCopyExample.executor": "Run",
@@ -105,12 +120,17 @@
     "애플리케이션.AssignmentOperatorExample.executor": "Run",
     "애플리케이션.BreakExample.executor": "Run",
     "애플리케이션.BreakOutterExample.executor": "Run",
+    "애플리케이션.CalculatorExample.executor": "Run",
+    "애플리케이션.CarExample.executor": "Run",
+    "애플리케이션.CarExmaple.executor": "Run",
     "애플리케이션.CompareOperatorExample1.executor": "Run",
     "애플리케이션.CompareOperatorExample2.executor": "Run",
+    "애플리케이션.ComputerExample.executor": "Run",
     "애플리케이션.ConditionalOperationExample.executor": "Run",
     "애플리케이션.ContinueExample.executor": "Run",
     "애플리케이션.DenyLogicOperatorExample.executor": "Run",
     "애플리케이션.EnumWeekExample.executor": "Run",
+    "애플리케이션.FieldInitValueExample.executor": "Run",
     "애플리케이션.ForMultiplicationTableExample.executor": "Run",
     "애플리케이션.ForPrintFrom1To10Example.executor": "Run",
     "애플리케이션.ForSumFrom1To100Example.executor": "Run",
@@ -121,18 +141,24 @@
     "애플리케이션.IfExample.executor": "Run",
     "애플리케이션.IncreaseDecreaseOperatorExample.executor": "Run",
     "애플리케이션.IntegerLiteralExample.executor": "Run",
+    "애플리케이션.KoreanExample.executor": "Run",
     "애플리케이션.LogicalOperatorExample.executor": "Run",
     "애플리케이션.MainStringArrayArgument.executor": "Run",
     "애플리케이션.ScannerExample.executor": "Run",
     "애플리케이션.SignOperatorExample.executor": "Run",
     "애플리케이션.StringConcatExample.executor": "Run",
     "애플리케이션.StringEqualsExample.executor": "Run",
+    "애플리케이션.StudentExample.executor": "Run",
     "애플리케이션.SwitchCharExample.executor": "Run",
     "애플리케이션.SwitchExample.executor": "Run",
     "애플리케이션.SwitchNoBreakCaseExample.executor": "Run",
     "애플리케이션.SwitchStringExample.executor": "Run",
     "애플리케이션.WhilePrintFrom1To10Exmaple.executor": "Run",
     "애플리케이션.WhileSumFrom1To100Example.executor": "Run",
+    "애플리케이션.sec03.exam01.CarExample.executor": "Run",
+    "애플리케이션.sec03.exam04.CarExample.executor": "Run",
+    "애플리케이션.sec04.exam03.CarExample.executor": "Run",
+    "애플리케이션.sec04.exam04.CalculatorExample.executor": "Run",
     "애플리케이션.test.executor": "Run"
   }
 }]]></component>
@@ -141,14 +167,17 @@
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/chap01" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="sec03.exam01" />
+    </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.AdvancedForExample">
-    <configuration name="AdvancedForExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec02.exam10.AdvancedForExample" />
+  <component name="RunManager" selected="애플리케이션.CarExample">
+    <configuration name="CalculatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec04.exam06.CalculatorExample" />
       <module name="1216_CES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sec02.exam10.*" />
+          <option name="PATTERN" value="sec04.exam06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayCopyByForExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec02.exam08.ArrayCopyByForExample" />
+    <configuration name="CarExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec04.exam05.CarExample" />
       <module name="1216_CES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sec02.exam08.*" />
+          <option name="PATTERN" value="sec04.exam05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +198,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayCopyExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec02.exam09.ArrayCopyExample" />
+    <configuration name="ComputerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec04.exam02.ComputerExample" />
       <module name="1216_CES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sec02.exam09.*" />
+          <option name="PATTERN" value="sec04.exam02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +211,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayInArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec02.exam06.ArrayInArrayExample" />
+    <configuration name="FieldInitValueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec02.exam02.FieldInitValueExample" />
       <module name="1216_CES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sec02.exam06.*" />
+          <option name="PATTERN" value="sec02.exam02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,12 +224,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayReferenceObjectExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec02.exam07.ArrayReferenceObjectExample" />
+    <configuration name="sec04.exam04.CalculatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec04.exam04.CalculatorExample" />
       <module name="1216_CES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sec02.exam07.*" />
+          <option name="PATTERN" value="sec04.exam04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,19 +238,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="애플리케이션.AdvancedForExample" />
-      <item itemvalue="애플리케이션.ArrayCopyByForExample" />
-      <item itemvalue="애플리케이션.ArrayCopyExample" />
-      <item itemvalue="애플리케이션.ArrayInArrayExample" />
-      <item itemvalue="애플리케이션.ArrayReferenceObjectExample" />
+      <item itemvalue="애플리케이션.CarExample" />
+      <item itemvalue="애플리케이션.ComputerExample" />
+      <item itemvalue="애플리케이션.FieldInitValueExample" />
+      <item itemvalue="애플리케이션.sec04.exam04.CalculatorExample" />
+      <item itemvalue="애플리케이션.CalculatorExample" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.AdvancedForExample" />
-        <item itemvalue="애플리케이션.ArrayCopyExample" />
-        <item itemvalue="애플리케이션.ArrayCopyByForExample" />
-        <item itemvalue="애플리케이션.ArrayReferenceObjectExample" />
-        <item itemvalue="애플리케이션.ArrayInArrayExample" />
+        <item itemvalue="애플리케이션.CarExample" />
+        <item itemvalue="애플리케이션.sec04.exam04.CalculatorExample" />
+        <item itemvalue="애플리케이션.ComputerExample" />
+        <item itemvalue="애플리케이션.FieldInitValueExample" />
+        <item itemvalue="애플리케이션.CalculatorExample" />
       </list>
     </recent_temporary>
   </component>

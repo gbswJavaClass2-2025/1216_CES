@@ -1,4 +1,4 @@
-package sec03.exam01;
+package sec03;
 
 public enum Week {
     MONDAY,
