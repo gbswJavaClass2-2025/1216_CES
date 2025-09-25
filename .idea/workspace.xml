@@ -5,27 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f9f9c41-17f5-4f27-ab8d-783181a04d12" name="변경" comment="0826 실습">
-      <change afterPath="$PROJECT_DIR$/chap06/src/sec05/exam01/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap06/src/sec05/exam01/CarExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap06/src/sec05/exam02/CaculatorExmaple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap06/src/sec05/exam02/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap06/src/sec05/exam03/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap06/src/sec05/exam04/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap06/src/sec05/exam04/SingletonExmaple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap06/src/sec05/exam05/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap06/src/sec05/exam05/PersonExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap06/src/sec05/exam06/Earth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap06/src/sec05/exam06/EarthExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap06/src/sec06/exam02/hankook/SnowTire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap06/src/sec06/exam02/hankook/Tire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap06/src/sec06/exam02/hyundai/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap06/src/sec06/exam02/kumho/BigWidthTire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap06/src/sec06/exam02/kumho/Tire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap06/src/sec06/exam02/mycompany/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap06/src/sec06/exam06/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap06/src/sec06/exam06/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap07/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap07/src/sec01/exam01/CellPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap07/src/sec01/exam01/DmbCellPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap07/src/sec01/exam01/DmbCellPhoneExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap07/src/sec01/exam02/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap07/src/sec01/exam02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap07/src/sec01/exam02/StudentExmaple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1216_CES/sec01/exam01/CellPhone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1216_CES/sec01/exam01/DmbCellPhone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1216_CES/sec01/exam01/DmbCellPhoneExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1216_CES/sec01/exam02/People.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1216_CES/sec01/exam02/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1216_CES/sec01/exam02/StudentExmaple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1216_CES/sec06/exam03/package1/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1216_CES/sec06/exam03/package1/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1216_CES/sec06/exam03/package2/C.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1216_CES/sec06/exam04/package1/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1216_CES/sec06/exam04/package1/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1216_CES/sec06/exam04/package2/C.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1216_CES/sec06/exam05/package1/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1216_CES/sec06/exam05/package1/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1216_CES/sec06/exam05/package2/C.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01/.idea/1216_CES.iml" beforeDir="false" afterPath="$PROJECT_DIR$/chap01/.idea/1216_CES.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1216_CES/sec04/exam04/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1216_CES/sec04/exam04/CalculatorExample.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,6 +127,7 @@
     "애플리케이션.ConditionalOperationExample.executor": "Run",
     "애플리케이션.ContinueExample.executor": "Run",
     "애플리케이션.DenyLogicOperatorExample.executor": "Run",
+    "애플리케이션.DmbCellPhoneExample.executor": "Run",
     "애플리케이션.EarthExample.executor": "Run",
     "애플리케이션.EnumWeekExample.executor": "Run",
     "애플리케이션.FieldInitValueExample.executor": "Run",
@@ -144,6 +150,7 @@
     "애플리케이션.StringConcatExample.executor": "Run",
     "애플리케이션.StringEqualsExample.executor": "Run",
     "애플리케이션.StudentExample.executor": "Run",
+    "애플리케이션.StudentExmaple.executor": "Run",
     "애플리케이션.SwitchCharExample.executor": "Run",
     "애플리케이션.SwitchExample.executor": "Run",
     "애플리케이션.SwitchNoBreakCaseExample.executor": "Run",
@@ -167,39 +174,26 @@
       <recent name="sec03.exam01" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.CarExample">
-    <configuration name="CaculatorExmaple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec05.exam02.CaculatorExmaple" />
-      <module name="1216_CES" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sec05.exam02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec05.exam03.Car" />
-      <module name="1216_CES" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sec05.exam03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.DmbCellPhoneExample">
     <configuration name="CarExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sec06.exam06.CarExample" />
       <module name="1216_CES" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sec06.exam06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DmbCellPhoneExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec01.exam01.DmbCellPhoneExample" />
+      <module name="1216_CES" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sec01.exam01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,20 +227,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StudentExmaple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec01.exam02.StudentExmaple" />
+      <module name="1216_CES" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sec01.exam02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="애플리케이션.CaculatorExmaple" />
-      <item itemvalue="애플리케이션.Car" />
+      <item itemvalue="애플리케이션.DmbCellPhoneExample" />
       <item itemvalue="애플리케이션.EarthExample" />
       <item itemvalue="애플리케이션.SingletonExmaple" />
+      <item itemvalue="애플리케이션.StudentExmaple" />
       <item itemvalue="애플리케이션.CarExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.DmbCellPhoneExample" />
+        <item itemvalue="애플리케이션.StudentExmaple" />
         <item itemvalue="애플리케이션.CarExample" />
         <item itemvalue="애플리케이션.EarthExample" />
         <item itemvalue="애플리케이션.SingletonExmaple" />
-        <item itemvalue="애플리케이션.Car" />
-        <item itemvalue="애플리케이션.CaculatorExmaple" />
       </list>
     </recent_temporary>
   </component>
