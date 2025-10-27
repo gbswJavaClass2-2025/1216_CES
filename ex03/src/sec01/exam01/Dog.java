@@ -12,7 +12,7 @@ public class Dog extends Animal{
     }
 
     // 메서드 위치
-    public void eatKcal(int kcal){
+    public void eat(int kcal){
         System.out.println(bread + ": 개(" + bread + ")가 " + kcal + "칼로리만큼 에너지를 보충합니다.");
     }
 

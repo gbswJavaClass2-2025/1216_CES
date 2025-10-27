@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f9f9c41-17f5-4f27-ab8d-783181a04d12" name="변경" comment="1021 과제">
-      <change afterPath="$PROJECT_DIR$/chap08/src/sec01/exam04/RemoteControlExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex03/src/sec01/exam01/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex03/src/sec01/exam01/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex03/src/sec01/exam01/PracticeExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap01/.idea/1216_CES.iml" beforeDir="false" afterPath="$PROJECT_DIR$/chap01/.idea/1216_CES.iml" afterDir="false" />
+    <list default="true" id="9f9f9c41-17f5-4f27-ab8d-783181a04d12" name="변경" comment="1027 자바실습시험 대비 실수 수정">
+      <change beforePath="$PROJECT_DIR$/ex03/src/sec01/exam01/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/ex03/src/sec01/exam01/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex03/src/sec01/exam01/PracticeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/ex03/src/sec01/exam01/PracticeExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -307,7 +303,23 @@
       <option name="project" value="LOCAL" />
       <updated>1761013597688</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1027 자바실습시험 대비">
+      <option name="closed" value="true" />
+      <created>1761576765303</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1761576765303</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1027 자바실습시험 대비 실수 수정">
+      <option name="closed" value="true" />
+      <created>1761576947046</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1761576947046</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -340,7 +352,9 @@
     <MESSAGE value="0826 실습" />
     <MESSAGE value="1020 과제" />
     <MESSAGE value="1021 과제" />
-    <option name="LAST_COMMIT_MESSAGE" value="1021 과제" />
+    <MESSAGE value="1027 자바실습시험 대비" />
+    <MESSAGE value="1027 자바실습시험 대비 실수 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="1027 자바실습시험 대비 실수 수정" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

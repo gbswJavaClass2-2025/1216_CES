@@ -24,6 +24,6 @@ public class PracticeExample {
         horangE.eat("생고기");
         gangAG.eat();
         gangAG.eat("개껌");
-        gangAG.eatKcal(500);
+        gangAG.eat(500);
     }
 }
