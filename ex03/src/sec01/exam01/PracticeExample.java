@@ -20,10 +20,10 @@ public class PracticeExample {
         System.out.println();
 
         System.out.println("[3. 오버로딩]");
-        horangE.eatNomal();
-        horangE.eatYarr("생고기");
-        gangAG.eatNomal();
-        gangAG.eatYarr("개껌");
+        horangE.eat();
+        horangE.eat("생고기");
+        gangAG.eat();
+        gangAG.eat("개껌");
         gangAG.eatKcal(500);
     }
 }

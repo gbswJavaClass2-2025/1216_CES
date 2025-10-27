@@ -20,10 +20,10 @@ public class Dog extends Animal{
     public void makeSound(){
         System.out.println(bread + " 소리: 멍멍! (품종: " + bread+")");
     }
-    public void eatNomal(){
+    public void eat(){
         System.out.println(bread + ": " + species+"이/가 일반적인 방식으로 먹이를 먹습니다.");
     }
-    public void eatYarr(String food){
+    public void eat(String food){
         System.out.println(bread + ": " + species+"이/가 " + food +"을/를 맛있게 먹습니다.");
     }
 }

@@ -12,10 +12,10 @@ public class Animal {
     }
 
     // 메서드 위치
-    public void eatNomal(){
+    public void eat(){
         System.out.println(species + ": " + species+"이/가 일반적인 방식으로 먹이를 먹습니다.");
     }
-    public void eatYarr(String food){
+    public void eat(String food){
         System.out.println(species + ": " + species+"이/가 " + food +"을/를 맛있게 먹습니다.");
     }
 
