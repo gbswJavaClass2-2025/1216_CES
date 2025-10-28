@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f9f9c41-17f5-4f27-ab8d-783181a04d12" name="변경" comment="1027 자바실습시험 대비 실수 수정">
-      <change beforePath="$PROJECT_DIR$/ex03/src/sec01/exam01/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/ex03/src/sec01/exam01/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex03/src/sec01/exam01/PracticeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/ex03/src/sec01/exam01/PracticeExample.java" afterDir="false" />
+    <list default="true" id="9f9f9c41-17f5-4f27-ab8d-783181a04d12" name="변경" comment="1027 자바실습시험 대비 실수 수정 2트">
+      <change afterPath="$PROJECT_DIR$/ex03/src/sec01/exam02/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/src/sec01/exam02/PizzaShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/src/sec01/exam02/ToppingPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +166,7 @@
       <recent name="sec01.exam04" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.PracticeExample">
+  <component name="RunManager" selected="애플리케이션.PizzaShop">
     <configuration name="AnimalExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sec03.exam02.AnimalExample" />
       <module name="1216_CES" />
@@ -191,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhoneExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec03.exam01.PhoneExample" />
+    <configuration name="PizzaShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec01.exam02.PizzaShop" />
       <module name="1216_CES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sec03.exam01.*" />
+          <option name="PATTERN" value="sec01.exam02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,17 +235,17 @@
     <list>
       <item itemvalue="애플리케이션.AnimalExample" />
       <item itemvalue="애플리케이션.PeopleExample" />
-      <item itemvalue="애플리케이션.PhoneExample" />
+      <item itemvalue="애플리케이션.PizzaShop" />
       <item itemvalue="애플리케이션.PracticeExample" />
       <item itemvalue="애플리케이션.ProductTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.PizzaShop" />
         <item itemvalue="애플리케이션.PracticeExample" />
         <item itemvalue="애플리케이션.ProductTest" />
         <item itemvalue="애플리케이션.PeopleExample" />
         <item itemvalue="애플리케이션.AnimalExample" />
-        <item itemvalue="애플리케이션.PhoneExample" />
       </list>
     </recent_temporary>
   </component>
@@ -319,7 +321,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761576947046</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="1027 자바실습시험 대비 실수 수정 2트">
+      <option name="closed" value="true" />
+      <created>1761577978302</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1761577978302</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -354,7 +364,8 @@
     <MESSAGE value="1021 과제" />
     <MESSAGE value="1027 자바실습시험 대비" />
     <MESSAGE value="1027 자바실습시험 대비 실수 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="1027 자바실습시험 대비 실수 수정" />
+    <MESSAGE value="1027 자바실습시험 대비 실수 수정 2트" />
+    <option name="LAST_COMMIT_MESSAGE" value="1027 자바실습시험 대비 실수 수정 2트" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
