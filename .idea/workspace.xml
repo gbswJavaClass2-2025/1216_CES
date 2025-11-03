@@ -4,11 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f9f9c41-17f5-4f27-ab8d-783181a04d12" name="변경" comment="1028 자바실습시험 대비 2차">
-      <change afterPath="$PROJECT_DIR$/chap08/src/sec01/exam05/Searchable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap08/src/sec01/exam05/SmartTelevision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap08/src/sec01/exam05/SmartTelevisionExample.java" afterDir="false" />
+    <list default="true" id="9f9f9c41-17f5-4f27-ab8d-783181a04d12" name="변경" comment="1030 ㄱㅘ제제출">
+      <change afterPath="$PROJECT_DIR$/cote/src/exam01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cote/src/exam01/StudentExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cote/src/exam02/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cote/src/exam02/OrderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cote/src/exam02/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cote/src/exam03/CheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cote/src/exam03/PizzaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cote/src/exam04/CheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cote/src/exam04/PepperoniPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cote/src/exam04/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cote/src/exam05/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cote/src/exam05/BookExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cote/src/exam06/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cote/src/exam06/BankAccountExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cote/src/exam07/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cote/src/exam07/FullTimeEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cote/src/exam07/PartTimeEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cote/src/exam08/ColorTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cote/src/exam08/Tire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cote/src/exam08/TireExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cote/src/exam08/WideTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/src/sec01/exam03/CoffeShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/src/sec01/exam03/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03/src/sec01/exam03/Latte.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01/.idea/1216_CES.iml" beforeDir="false" afterPath="$PROJECT_DIR$/chap01/.idea/1216_CES.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +107,7 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/choies/Desktop/JavaLearn/1216_CES/chap01/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "ml.llm.LLMConfigurable",
     "애플리케이션.AdvancedForExample.executor": "Run",
     "애플리케이션.AnimalExample.executor": "Run",
     "애플리케이션.ArithmeticOperatorExample.executor": "Run",
@@ -97,6 +119,7 @@
     "애플리케이션.ArrayLengthExample.executor": "Run",
     "애플리케이션.ArrayReferenceObjectExample.executor": "Run",
     "애플리케이션.AssignmentOperatorExample.executor": "Run",
+    "애플리케이션.BankAccountExample.executor": "Run",
     "애플리케이션.BreakExample.executor": "Run",
     "애플리케이션.BreakOutterExample.executor": "Run",
     "애플리케이션.CaculatorExmaple.executor": "Run",
@@ -105,6 +128,7 @@
     "애플리케이션.CarExample.executor": "Run",
     "애플리케이션.CarExmaple.executor": "Run",
     "애플리케이션.ChildExample.executor": "Run",
+    "애플리케이션.CoffeShop.executor": "Run",
     "애플리케이션.CompareOperatorExample1.executor": "Run",
     "애플리케이션.CompareOperatorExample2.executor": "Run",
     "애플리케이션.ComputerExample.executor": "Run",
@@ -130,8 +154,10 @@
     "애플리케이션.KoreanExample.executor": "Run",
     "애플리케이션.LogicalOperatorExample.executor": "Run",
     "애플리케이션.MainStringArrayArgument.executor": "Run",
+    "애플리케이션.OrderExample.executor": "Run",
     "애플리케이션.PeopleExample.executor": "Run",
     "애플리케이션.PhoneExample.executor": "Run",
+    "애플리케이션.PizzaExample.executor": "Run",
     "애플리케이션.PizzaShop.executor": "Run",
     "애플리케이션.PracticeExample.executor": "Run",
     "애플리케이션.ProductTest.executor": "Run",
@@ -148,6 +174,7 @@
     "애플리케이션.SwitchExample.executor": "Run",
     "애플리케이션.SwitchNoBreakCaseExample.executor": "Run",
     "애플리케이션.SwitchStringExample.executor": "Run",
+    "애플리케이션.TireExample.executor": "Run",
     "애플리케이션.WhilePrintFrom1To10Exmaple.executor": "Run",
     "애플리케이션.WhileSumFrom1To100Example.executor": "Run",
     "애플리케이션.sec02.exam05.ChildExample.executor": "Run",
@@ -171,13 +198,13 @@
       <recent name="sec01.exam04" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.SmartTelevisionExample">
-    <configuration name="PeopleExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec01.exam01.PeopleExample" />
+  <component name="RunManager" selected="애플리케이션.CoffeShop">
+    <configuration name="BankAccountExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam06.BankAccountExample" />
       <module name="1216_CES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sec01.exam01.*" />
+          <option name="PATTERN" value="exam06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,12 +212,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PizzaShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec01.exam02.PizzaShop" />
+    <configuration name="CoffeShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec01.exam03.CoffeShop" />
       <module name="1216_CES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sec01.exam02.*" />
+          <option name="PATTERN" value="sec01.exam03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,12 +225,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PracticeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec01.exam01.PracticeExample" />
+    <configuration name="OrderExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam02.OrderExample" />
       <module name="1216_CES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sec01.exam01.*" />
+          <option name="PATTERN" value="exam02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,12 +238,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec02.exam01.ProductTest" />
+    <configuration name="PizzaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam03.PizzaExample" />
       <module name="1216_CES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sec02.exam01.*" />
+          <option name="PATTERN" value="exam03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,12 +251,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmartTelevisionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec01.exam05.SmartTelevisionExample" />
+    <configuration name="TireExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam08.TireExample" />
       <module name="1216_CES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sec01.exam05.*" />
+          <option name="PATTERN" value="exam08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -238,19 +265,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="애플리케이션.PeopleExample" />
-      <item itemvalue="애플리케이션.PizzaShop" />
-      <item itemvalue="애플리케이션.PracticeExample" />
-      <item itemvalue="애플리케이션.ProductTest" />
-      <item itemvalue="애플리케이션.SmartTelevisionExample" />
+      <item itemvalue="애플리케이션.BankAccountExample" />
+      <item itemvalue="애플리케이션.CoffeShop" />
+      <item itemvalue="애플리케이션.OrderExample" />
+      <item itemvalue="애플리케이션.PizzaExample" />
+      <item itemvalue="애플리케이션.TireExample" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.SmartTelevisionExample" />
-        <item itemvalue="애플리케이션.PizzaShop" />
-        <item itemvalue="애플리케이션.PracticeExample" />
-        <item itemvalue="애플리케이션.ProductTest" />
-        <item itemvalue="애플리케이션.PeopleExample" />
+        <item itemvalue="애플리케이션.CoffeShop" />
+        <item itemvalue="애플리케이션.TireExample" />
+        <item itemvalue="애플리케이션.BankAccountExample" />
+        <item itemvalue="애플리케이션.PizzaExample" />
+        <item itemvalue="애플리케이션.OrderExample" />
       </list>
     </recent_temporary>
   </component>
@@ -342,7 +369,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761611659992</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="1030 ㄱㅘ제제출">
+      <option name="closed" value="true" />
+      <created>1761783041136</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1761783041136</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -379,7 +414,8 @@
     <MESSAGE value="1027 자바실습시험 대비 실수 수정" />
     <MESSAGE value="1027 자바실습시험 대비 실수 수정 2트" />
     <MESSAGE value="1028 자바실습시험 대비 2차" />
-    <option name="LAST_COMMIT_MESSAGE" value="1028 자바실습시험 대비 2차" />
+    <MESSAGE value="1030 ㄱㅘ제제출" />
+    <option name="LAST_COMMIT_MESSAGE" value="1030 ㄱㅘ제제출" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
