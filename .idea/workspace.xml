@@ -4,24 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f9f9c41-17f5-4f27-ab8d-783181a04d12" name="변경" comment="1124 과제 완료">
-      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam02/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam02/MemberExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam03/Key.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam03/KeyExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam04/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam05/ToStringExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam06/SmartPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam06/SmartPhoneExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam07/ExitExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam08/SystemTimeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam09/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam09/ClassExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam10/RecourcePathExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam10/images/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam10/img.png" afterDir="false" />
+    <list default="true" id="9f9f9c41-17f5-4f27-ab8d-783181a04d12" name="변경" comment="chap11 sec01.exam10 완료">
+      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam11/ByteToStringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam12/KeyboardToStringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam13/StringCharAtExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam14/StringEqualsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam15/StringGetBytesExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam16/StringIndexOfExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam17/StringLengthExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam18/StringReplaceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam19/StringSubstringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam20/StringToLowerUpperCaseExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam21/StringTrimExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam22/StringValueOfExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam23/BoxingUnBoxingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam24/AutoBoxingUnBoxingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam25/StringToPrimitiveValueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam26/ValueCompareExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam27/MathExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap11/src/sec01/exam28/MathRandomExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap11/src/sec02/exam01/DateExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap01/.idea/1216_CES.iml" beforeDir="false" afterPath="$PROJECT_DIR$/chap01/.idea/1216_CES.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +102,7 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/choies/Desktop/JavaLearn/1216_CES/chap08/src/sec02/exam04",
     "onboarding.tips.debug.path": "/Users/choies/Desktop/JavaLearn/1216_CES/chap01/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "애플리케이션.AdvancedForExample.executor": "Run",
     "애플리케이션.AnimalExample.executor": "Run",
     "애플리케이션.AnonymousExample.executor": "Run",
@@ -113,11 +116,14 @@
     "애플리케이션.ArrayLengthExample.executor": "Run",
     "애플리케이션.ArrayReferenceObjectExample.executor": "Run",
     "애플리케이션.AssignmentOperatorExample.executor": "Run",
+    "애플리케이션.AutoBoxingUnBoxingExample.executor": "Run",
     "애플리케이션.BankAccountExample.executor": "Run",
     "애플리케이션.BasicControl.executor": "Run",
+    "애플리케이션.BoxingUnBoxingExample.executor": "Run",
     "애플리케이션.BreakExample.executor": "Run",
     "애플리케이션.BreakOutterExample.executor": "Run",
     "애플리케이션.ButtonExample.executor": "Run",
+    "애플리케이션.ByteToStringExample.executor": "Run",
     "애플리케이션.CaculatorExmaple.executor": "Run",
     "애플리케이션.CalculatorExample.executor": "Run",
     "애플리케이션.Car.executor": "Run",
@@ -134,6 +140,7 @@
     "애플리케이션.ConditionalOperationExample.executor": "Run",
     "애플리케이션.ContinueExample.executor": "Run",
     "애플리케이션.CustomerExample.executor": "Run",
+    "애플리케이션.DateExample.executor": "Run",
     "애플리케이션.DenyLogicOperatorExample.executor": "Run",
     "애플리케이션.DmbCellPhoneExample.executor": "Run",
     "애플리케이션.DriverExample.executor": "Run",
@@ -155,10 +162,13 @@
     "애플리케이션.InstanceofExample.executor": "Run",
     "애플리케이션.IntegerLiteralExample.executor": "Run",
     "애플리케이션.KeyExample.executor": "Debug",
+    "애플리케이션.KeyboardToStringExample.executor": "Run",
     "애플리케이션.KoreanExample.executor": "Run",
     "애플리케이션.LogicalOperatorExample.executor": "Run",
     "애플리케이션.Main.executor": "Run",
     "애플리케이션.MainStringArrayArgument.executor": "Run",
+    "애플리케이션.MathExample.executor": "Run",
+    "애플리케이션.MathRandomExample.executor": "Run",
     "애플리케이션.MemberExample.executor": "Debug",
     "애플리케이션.MyClassExample.executor": "Run",
     "애플리케이션.OrderExample.executor": "Run",
@@ -174,8 +184,18 @@
     "애플리케이션.SingletonExmaple.executor": "Run",
     "애플리케이션.SmartPhoneExample.executor": "Run",
     "애플리케이션.SmartTelevisionExample.executor": "Run",
+    "애플리케이션.StringCharAtExample.executor": "Run",
     "애플리케이션.StringConcatExample.executor": "Run",
     "애플리케이션.StringEqualsExample.executor": "Run",
+    "애플리케이션.StringGetBytesExample.executor": "Run",
+    "애플리케이션.StringIndexOfExample.executor": "Run",
+    "애플리케이션.StringLengthExample.executor": "Run",
+    "애플리케이션.StringReplaceExample.executor": "Run",
+    "애플리케이션.StringSubstringExample.executor": "Run",
+    "애플리케이션.StringToLowerUpperCaseExample.executor": "Run",
+    "애플리케이션.StringToPrimitiveValueExample.executor": "Run",
+    "애플리케이션.StringTrimExample.executor": "Run",
+    "애플리케이션.StringValueOfExample.executor": "Run",
     "애플리케이션.StudentExample.executor": "Run",
     "애플리케이션.StudentExmaple.executor": "Run",
     "애플리케이션.SupersonicAirplaneExample.executor": "Run",
@@ -189,6 +209,7 @@
     "애플리케이션.ToStringExample.executor": "Run",
     "애플리케이션.TryCatchFinallyExample.executor": "Run",
     "애플리케이션.TryCatchFinallyRuntimeExceptionExample.executor": "Run",
+    "애플리케이션.ValueCompareExample.executor": "Run",
     "애플리케이션.VehicleExample.executor": "Run",
     "애플리케이션.WhilePrintFrom1To10Exmaple.executor": "Run",
     "애플리케이션.WhileSumFrom1To100Example.executor": "Run",
@@ -218,13 +239,13 @@
       <recent name="sec01.exam04" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.RecourcePathExample">
-    <configuration name="ClassExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec01.exam09.ClassExample" />
+  <component name="RunManager" selected="애플리케이션.CalendarExample">
+    <configuration name="CalendarExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec02.exam02.CalendarExample" />
       <module name="1216_CES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sec01.exam09.*" />
+          <option name="PATTERN" value="sec02.exam02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,12 +253,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecourcePathExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec01.exam10.RecourcePathExample" />
+    <configuration name="DateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec02.exam01.DateExample" />
       <module name="1216_CES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sec01.exam10.*" />
+          <option name="PATTERN" value="sec02.exam01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,12 +266,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmartPhoneExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec01.exam06.SmartPhoneExample" />
+    <configuration name="MathExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec01.exam27.MathExample" />
       <module name="1216_CES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sec01.exam06.*" />
+          <option name="PATTERN" value="sec01.exam27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,12 +279,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SystemTimeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec01.exam08.SystemTimeExample" />
+    <configuration name="MathRandomExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec01.exam28.MathRandomExample" />
       <module name="1216_CES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sec01.exam08.*" />
+          <option name="PATTERN" value="sec01.exam28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,12 +292,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ToStringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec01.exam05.ToStringExample" />
+    <configuration name="ValueCompareExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec01.exam26.ValueCompareExample" />
       <module name="1216_CES" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sec01.exam05.*" />
+          <option name="PATTERN" value="sec01.exam26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -285,19 +306,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="애플리케이션.ClassExample" />
-      <item itemvalue="애플리케이션.RecourcePathExample" />
-      <item itemvalue="애플리케이션.SmartPhoneExample" />
-      <item itemvalue="애플리케이션.SystemTimeExample" />
-      <item itemvalue="애플리케이션.ToStringExample" />
+      <item itemvalue="애플리케이션.CalendarExample" />
+      <item itemvalue="애플리케이션.DateExample" />
+      <item itemvalue="애플리케이션.MathExample" />
+      <item itemvalue="애플리케이션.MathRandomExample" />
+      <item itemvalue="애플리케이션.ValueCompareExample" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.RecourcePathExample" />
-        <item itemvalue="애플리케이션.ClassExample" />
-        <item itemvalue="애플리케이션.SystemTimeExample" />
-        <item itemvalue="애플리케이션.SmartPhoneExample" />
-        <item itemvalue="애플리케이션.ToStringExample" />
+        <item itemvalue="애플리케이션.CalendarExample" />
+        <item itemvalue="애플리케이션.DateExample" />
+        <item itemvalue="애플리케이션.MathRandomExample" />
+        <item itemvalue="애플리케이션.MathExample" />
+        <item itemvalue="애플리케이션.ValueCompareExample" />
       </list>
     </recent_temporary>
   </component>
@@ -421,7 +442,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764027194337</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="chap11 sec01.exam10 완료">
+      <option name="closed" value="true" />
+      <created>1764220521805</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1764220521805</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -462,7 +491,8 @@
     <MESSAGE value="1101 과제 완료 (커피는 ex03/src/sec01.exam03)" />
     <MESSAGE value="1117 과제 완료" />
     <MESSAGE value="1124 과제 완료" />
-    <option name="LAST_COMMIT_MESSAGE" value="1124 과제 완료" />
+    <MESSAGE value="chap11 sec01.exam10 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="chap11 sec01.exam10 완료" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
